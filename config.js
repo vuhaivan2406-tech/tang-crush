@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
+    introTitle: 'Xin chào người anh em tín hữu!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
+    Lạc vào đại hội Speech KV43
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    title: 'Thư mời anh em cùng tham gia đại hội speech khu vực 43',
+    desc: 'Chắc hẳn anh em đang hào hứng, háo hức, mong muốn, mong chờ, mong đợi, mong ngóng tham gia đúng không ạa ',
+    btnYes: 'Vâng ạ, chắc chắn rồi, em chờ lâu lắm rồi <33',
+    btnNo: 'Hức, em không có mong chờ lắm ạa :3',
+    question:'Vậy anh em xác nhận tham gia nhé <3',
+    btnReply: 'Em tham gia ạ <3',
+    reply: 'Em sẵn sằng rồi ạa <33333333',
+    mess: 'Em biết là anh em sẽ mong muốn tham gia mà 🥰. Love you so much 😘😘',
+    messDesc: 'Hẹn anh em 21h Thứ 6 Ngày 30/10 nhé.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.messenger.com/t/156025504001094/?locale=vi_VN' 
 }
